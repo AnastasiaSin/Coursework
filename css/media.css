@@ -1651,7 +1651,7 @@ height: auto;
     padding-top: 2px;
     padding-bottom: 4px;
     cursor        : pointer;
-    max-width     : 300px;
+    max-width     : 100%;
     transition    : color .2s ease-in-out;
     display       : none;
     border-bottom : 1px solid rgba(255, 255, 255, 0.5);
